@@ -7,7 +7,7 @@ Presentación del curso: Una introducción embebida para los estudiantes.
 Recursos y herramientas: Listado de recursos recomendados para aprender programación de entornos virtuales.
 Cómo ver el sitio
 ## Cómo ver el sitio
-Visita la página del proyecto aquí: [Cursos Academicos impartidos](https://ajgutierr3z.github.io/AcademySubjectsHub/)
+Visita la página del proyecto aquí: [Cursos Academicos impartidos](https://ajgutierr3z.github.io/AcademicSubjectsHub/)
 
 ##Tecnologías utilizadas
 - **HTML5** para la estructura del sitio.
